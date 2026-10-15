@@ -1,0 +1,7 @@
+{
+  "name": "38 Haftalık Çalışma ve Kaynak Programı",
+  "description": "38 haftalık interaktif çalışma, not ve Google Drive kaynak takip programı. Telefon, tablet ve bilgisayardan anlık senkronizasyon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

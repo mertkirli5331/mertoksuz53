@@ -1,0 +1,1049 @@
+{
+  "lastUpdated": "2026-10-14T16:27:34.313Z",
+  "weeks": [
+    {
+      "weekNumber": 1,
+      "title": "1. Hafta: Oryantasyon & Temel Bilgilere Giriş",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "in_progress",
+      "notes": "Hoş geldiniz! Bu alana haftalık çalışma notlarınızı, konuları, özetleri ve yönergeleri yazabilirsiniz. Aşağıdaki Google Drive linkleri bölümünden ilgili klasör ve dosyalarınızı ekleyebilirsiniz. Eklediğiniz her şey sunucuya kaydedilir ve tüm telefon, tablet ve bilgisayarlarınızda anında görünür.",
+      "driveLinks": [
+        {
+          "id": "sample-drive-1",
+          "title": "Örnek: Ders & Çalışma Materyalleri Klasörü",
+          "url": "https://drive.google.com",
+          "type": "folder",
+          "addedAt": "2026-10-14T16:20:17.872Z",
+          "notes": "Haftalık ders materyalleri ve PDF dökümanları"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "task-1-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": true
+        },
+        {
+          "id": "task-1-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-1-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:27:34.313Z"
+    },
+    {
+      "weekNumber": 2,
+      "title": "2. Hafta: Temel Kavramlar ve Hedef Belirleme",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-2-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-2-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-2-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 3,
+      "title": "3. Hafta: Konu İncelemeleri & Kaynak Taraması",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "3. Hafta çalışma ve kaynak uygulaması bağlantısı aşağıya eklenmiştir.",
+      "driveLinks": [
+        {
+          "id": "link-week-3-vercel",
+          "title": "3. Hafta Çalışma & Uygulama Bağlantısı",
+          "url": "https://opjsdfl-kjsdl-kjasdl-kjds-rblc.vercel.app/",
+          "type": "other",
+          "addedAt": "2026-10-14T23:25:00.000Z",
+          "notes": "Haftalık interaktif çalışma ve kaynak platformu"
+        }
+      ],
+      "tasks": [
+        {
+          "id": "task-3-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-3-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-3-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 4,
+      "title": "4. Hafta: 1. Modül: Başlangıç Uygulamaları",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-4-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-4-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-4-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 5,
+      "title": "5. Hafta: Analiz ve Değerlendirme",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-5-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-5-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-5-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 6,
+      "title": "6. Hafta: Problem Çözme Teknikleri",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-6-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-6-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-6-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 7,
+      "title": "7. Hafta: 2. Modül: Derinlemesine Çalışma",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-7-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-7-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-7-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 8,
+      "title": "8. Hafta: Pratik & Ara Değerlendirme",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-8-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-8-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-8-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 9,
+      "title": "9. Hafta: Haftalık Tekrar & Quiz / Özet",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-9-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-9-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-9-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 10,
+      "title": "10. Hafta: Proje Planlama & Dokümantasyon",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-10-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-10-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-10-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 11,
+      "title": "11. Hafta: Uygulamalı Çalışma 1",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-11-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-11-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-11-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 12,
+      "title": "12. Hafta: Uygulamalı Çalışma 2",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-12-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-12-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-12-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 13,
+      "title": "13. Hafta: İlk Çeyrek İlerleme Değerlendirmesi",
+      "subtitle": "1. Dönem / Temel Aşama",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-13-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-13-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-13-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "blue",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 14,
+      "title": "14. Hafta: İleri Seviye Konulara Giriş",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-14-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-14-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-14-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 15,
+      "title": "15. Hafta: Vaka Analizi & Örnek Çalışmalar",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-15-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-15-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-15-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 16,
+      "title": "16. Hafta: 3. Modül: Uzmanlaşma Adımları",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-16-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-16-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-16-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 17,
+      "title": "17. Hafta: Kritik Beceriler & Metotlar",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-17-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-17-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-17-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 18,
+      "title": "18. Hafta: Grup / Bireysel Çalışma & Notlar",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-18-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-18-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-18-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 19,
+      "title": "19. Hafta: Yarıyıl Kapsamlı Tekrar & Özet",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-19-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-19-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-19-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 20,
+      "title": "20. Hafta: İkinci Dönem Hedefleri & Strateji",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-20-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-20-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-20-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 21,
+      "title": "21. Hafta: 4. Modül: Gelişmiş Uygulamalar",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-21-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-21-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-21-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 22,
+      "title": "22. Hafta: Veri & Doküman İncelemesi",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-22-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-22-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-22-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 23,
+      "title": "23. Hafta: Zorlayıcı Konular & Çözümler",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-23-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-23-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-23-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 24,
+      "title": "24. Hafta: Geri Bildirim & İyileştirme",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-24-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-24-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-24-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 25,
+      "title": "25. Hafta: 5. Modül: Proje Geliştirme",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-25-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-25-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-25-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 26,
+      "title": "26. Hafta: Entegrasyon & Sistem Tasarımı",
+      "subtitle": "2. Dönem / Gelişme Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-26-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-26-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-26-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "emerald",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 27,
+      "title": "27. Hafta: Pratik Senaryolar & Simülasyon",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-27-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-27-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-27-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 28,
+      "title": "28. Hafta: Performans & Hız Artırma",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-28-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-28-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-28-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 29,
+      "title": "29. Hafta: 6. Modül: Kapsamlı Denemeler",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-29-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-29-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-29-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 30,
+      "title": "30. Hafta: Hata Analizi & Eksik Giderme",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-30-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-30-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-30-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 31,
+      "title": "31. Hafta: Büyük Proje / Tez Hazırlığı",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-31-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-31-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-31-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 32,
+      "title": "32. Hafta: Proje Sunum & Dokümantasyonu",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-32-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-32-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-32-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 33,
+      "title": "33. Hafta: Son Düzlük: Hızlı Hatırlatmalar",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-33-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-33-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-33-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 34,
+      "title": "34. Hafta: Genel Tekrar & Soru Çözümü",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-34-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-34-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-34-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 35,
+      "title": "35. Hafta: Stres Yönetimi & Zaman Planlaması",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-35-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-35-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-35-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 36,
+      "title": "36. Hafta: Son Değerlendirme Denemeleri",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-36-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-36-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-36-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 37,
+      "title": "37. Hafta: Nihai İnceleme & Eksiksiz Kontrol",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-37-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-37-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-37-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    },
+    {
+      "weekNumber": 38,
+      "title": "38. Hafta: 38. Hafta: Final Tamamlama & Başarı Değerlendirmesi",
+      "subtitle": "3. Dönem / İleri & Final Aşaması",
+      "status": "not_started",
+      "notes": "",
+      "driveLinks": [],
+      "tasks": [
+        {
+          "id": "task-38-1",
+          "text": "Haftalık plan ve hedefleri belirle",
+          "completed": false
+        },
+        {
+          "id": "task-38-2",
+          "text": "Google Drive kaynaklarını incele",
+          "completed": false
+        },
+        {
+          "id": "task-38-3",
+          "text": "Haftalık çalışma ve ödevleri tamamla",
+          "completed": false
+        }
+      ],
+      "colorTag": "purple",
+      "updatedAt": "2026-10-14T16:20:17.872Z"
+    }
+  ]
+}
